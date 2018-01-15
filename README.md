@@ -4,7 +4,7 @@
 
 <h1 style="text-align:center;">Data Science 101</h1>
 
-<blockquote>*"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world."* **- Atul Butte**, Stanford University</blockquote>
+<blockquote><i>"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world."</i> <strong>- Atul Butte</strong>, Stanford University</blockquote>
 
 This is the ORSIE Data Science bootcamp developed by Amit Maraj. 
 
